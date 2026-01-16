@@ -4,8 +4,8 @@
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029VatokI45EjxufALmY32X">
-    <img alt=Support height="390" src="https://files.catbox.moe/aktbgo.jpg"> 
+  <a href="https://whatsapp.com/channel/0029VbCDC5M3wtbG50hWK83w">
+    <img alt=Support height="390" src="https://files.catbox.moe/15z65y.jpg"> 
     </p>
  
  
@@ -17,7 +17,7 @@
 #### SETUP  FORK 🌟
 
 
-[`FORK`](https://github.com/Qartde/Rahmani_Md/fork)
+[`FORK`](https://github.com/adeelsabqi11/ADEEL-XMD/fork)
 
 
  
@@ -34,7 +34,7 @@
 
 `If You Have a Heroku Account`
 
-<a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Qartde/KIBORE/tree/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/adeelsabqi11/ADEEL-XMD/tree/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
