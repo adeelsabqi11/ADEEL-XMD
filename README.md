@@ -1,5 +1,5 @@
 
-<p align="center">                                                 ༒𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃༒
+<p align="center">                                                 𝐌ᴀғɪᴀ 𝐀ᴅᴇᴇʟ
   
 
 </p>
@@ -23,7 +23,7 @@
  
 
 
-[`PAIRING CODE`](https://rahmani-4.onrender.com/pair)
+[`PAIRING CODE`](https://adeelxmd-ty.onrender.com)
  
 
 #### DEPLOY TO HEROKU RAHMANI-MD
