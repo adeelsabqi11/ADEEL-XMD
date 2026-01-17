@@ -34,27 +34,27 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-          *RAHMANI MD BOT INFO* 
+          *ADEEL XMD BOT INFO* 
 ❒───────────────────❒
 
 *GITHUB LINK*
->https://github.com/Qartde/KIBORE
+> https://github.com/adeelsabqi11/ADEEL-XMD
 
 *CONTACT OWNER*
-> https://wa.me/255760164530
+> https://wa.me/923131613251
 
 *WHATSAPP CHANNEL*
 >https://whatsapp.com/channel/0029VatokI45EjxufALmY32X
 ⁠
 ╭───────────────────❒
  │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
- │❒⁠⁠⁠⁠ *DEV1* : *Rahmani xmd*
- │❒⁠⁠⁠⁠ *DEV2* : *Rahmany tech*
+ │❒⁠⁠⁠⁠ *DEV1* : *Adeel xmd*
+ │❒⁠⁠⁠⁠ *DEV2* : *Rahmany md*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-         *POWERED BY RAHMANI MD*
+         *POWERED BY ADEEL XMD*
 
 ❒───────────────────❒`;
 
