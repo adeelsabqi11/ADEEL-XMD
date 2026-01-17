@@ -35,10 +35,6 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝐓𝐇𝐈𝐒+𝐈𝐒+𝐑𝐀𝐇𝐌𝐀𝐍𝐈+𝐌𝐃+𝐌𝐀𝐈𝐃𝐄+𝐈𝐍+𝐓𝐀𝐍𝐙𝐀𝐍𝐈𝐀" alt="Typing SVG" /></a>
-
-
-
 **❖ FOR SUPPORT ADEEL-XMD ❖**
  
 Stay Connected With The Latest Updates By
@@ -49,7 +45,5 @@ Stay Connected With The Latest Updates By
 
 <a href="https://whatsapp.com/channel/0029VavP4nX0G0XggHzhVg0R"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝗔𝗟𝗪𝗔𝗬𝗦+𝗤𝗔𝗥𝗧" alt="Typing SVG" /></a>
+<a href="https://mafia-adeel.gt.tc/?i=1"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-green" alt="🔰 ᴄʜᴀᴄᴋ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
