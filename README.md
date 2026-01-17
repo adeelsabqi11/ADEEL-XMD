@@ -5,14 +5,11 @@
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VbCDC5M3wtbG50hWK83w">
-    <img alt=Support height="390" src="https://files.catbox.moe/15z65y.jpg"> 
+    <img alt=Support height="390" src="https://files.catbox.moe/1bho69.jpg"> 
     </p>
  
  
  
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝐓𝐇𝐈𝐒+𝐈𝐒+𝐑𝐀𝐇𝐌𝐀𝐍𝐈+𝐌𝐃+𝐌𝐀𝐈𝐃𝐄+𝐈𝐍+𝐓𝐀𝐍𝐙𝐀𝐍𝐈𝐀" alt="Typing SVG" /></a>
 
 #### SETUP  FORK 🌟
 
@@ -26,7 +23,7 @@
 [`PAIRING CODE`](https://adeelxmd-ty.onrender.com)
  
 
-#### DEPLOY TO HEROKU RAHMANI-MD
+#### DEPLOY TO HEROKU ADEEL-XMD
 `If You Don't Have An Account On Heroku`
 
 <a align="center"><a href="https://signup.heroku.com">
@@ -42,15 +39,15 @@
 
 
 
-**❖ FOR SUPPORT RAHMANI-MD ❖**
+**❖ FOR SUPPORT ADEEL-XMD ❖**
  
 Stay Connected With The Latest Updates By
    <br>
   
-<a href="https://whatsapp.com/channel/0029VatokI45EjxufALmY32X"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://whatsapp.com/channel/0029VbCDC5M3wtbG50hWK83w"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 
-<a href="https://youtube.com/@timnasa-tmd?si=pnitcokiKJdhzhMA"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://whatsapp.com/channel/0029VavP4nX0G0XggHzhVg0R"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 
 
