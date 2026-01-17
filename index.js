@@ -49,7 +49,7 @@ const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/adeel-MD-WHATSAPP-BOT;;;=>/g,"");
+var session = conf.session.replace(/ADEEL-XMD-WHATSAPP-BOT;;;=>/g,"");
 const prefixe = conf.PREFIXE;
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
@@ -464,7 +464,7 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'Zoou-Md',
+                                        pack: 'ADEEL-XMd',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -562,7 +562,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Rahmany-Md',
+                pack: 'ADEEL-XMd',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -882,11 +882,11 @@ zk.ev.on('group-participants.update', async (group) => {
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
 
-                let cmsg =`      ❒─❒⁠⁠⁠⁠ *BOT-IS-RUNNING* ❒⁠⁠⁠⁠─⁠⁠⁠⁠❒⁠⁠⁠⁠
+                let cmsg =`      ߷─߷ *BOT-IS-RUNNING* ߷─⁠⁠⁠⁠߷
 ╭❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠              
-❒⁠⁠⁠⁠ 𝑫𝑬𝑽   : *ADEEL 😈*   
-❒⁠⁠⁠⁠ 𝑩𝑶𝑻   : *ADEEL-XMD*
-❒.  𝑾𝑪𝑯𝑨𝑵𝑵𝑳 :https://whatsapp.com/channel/0029VbCDC5M3wtbG50hWK83w
+❒⁠⁠⁠⁠  Oᗯᑎᗴᖇ  : *ᗰᗩᖴIᗩ-ᗩᗪᗴᗴᒪ*   
+❒⁠⁠⁠⁠ ᗷOT     : *ᗩᗪᗴᗴᒪ-᙭ᗰᗪ*
+❒ᗯᑕᕼᗩᑎᑎᗴᒪ :https://whatsapp.com/channel/0029VbCDC5M3wtbG50hWK83w
 ╰❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
