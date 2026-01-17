@@ -71,7 +71,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
                 externalAdReply: {
                     title: "ᗩᗪᗴᗴᒪ-᙭ᗰᗪ",
                     body: "Tap here my friend join channel update",
-                    thumbnailUrl: "https://files.catbox.moe/aktbgo.jpg",
+                    thumbnailUrl: "https://files.catbox.moe/1bho69.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029VbCDC5M3wtbG50hWK83w",
                     mediaType: 1,
                     renderLargerThumbnail: true
