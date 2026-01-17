@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Qartde/KIBORE  /root/ToshTech
+RUN git clone https://github.com/adeelsabqi11/ADEEL-XMD  /root/ToshTech
 WORKDIR /root/toshtech/
 
 
