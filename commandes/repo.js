@@ -44,17 +44,17 @@ const date = moment().format('DD/MM/YYYY');
 > https://wa.me/923131613251
 
 *WHATSAPP CHANNEL*
->https://whatsapp.com/channel/0029VatokI45EjxufALmY32X
+>https://whatsapp.com/channel/0029VbCDC5M3wtbG50hWK83w
 ⁠
 ╭───────────────────❒
  │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
- │❒⁠⁠⁠⁠ *DEV1* : *Adeel xmd*
- │❒⁠⁠⁠⁠ *DEV2* : *Rahmany md*
+ │❒⁠⁠⁠⁠ *EN* : *ᗰᗩᖴIᗩ-ᗩᗪᗴᗴᒪ*
+ │❒⁠⁠⁠⁠ *UR* : *مــــؔــــافـــــؔــیــــا عــؔــدیــؔـــــل*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-         *POWERED BY ADEEL XMD*
+         *📌 ᴘᴏᴡᴇʀ ʙʏ ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ*
 
 ❒───────────────────❒`;
 
