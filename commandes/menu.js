@@ -44,7 +44,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 ┊   └────••••────⊷
 ╰━━━••✧ᗰᗩᖴIᗩ-ᗩᗪᗴᗴᒪ✧••━━━◆ \n`;
 
-    let menuMsg = `ᗩᗪᗴᗴᒪ-᙭ᗰᗪ`;
+    let menuMsg = `مــــؔــــافـــــؔــیــــا عــؔــدیــؔـــــل`;
     
     for (const cat in coms) {
         menuMsg += `
@@ -60,7 +60,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     }
     
     menuMsg += `
-> @ᗩᗪᗴᗴᒪ-᙭ᗰᗪ\n`;
+> 📌 ᴘᴏᴡᴇʀ ʙʏ ᴍᴀғɪᴀ ᴀᴅᴇᴇʟ\n`;
 
     try {
         const senderName = nomAuteurMessage || message.from;  // Use correct variable for sender name
